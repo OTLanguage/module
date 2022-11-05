@@ -1,0 +1,7 @@
+compulsion
+bin~orign~console~priority~PriorityPrintln
+bin~apply~sys~run~TryCatch
+bin~apply~sys~run~ForceQuit
+bin~orign~console~priority~PriorityPrint
+bin~orign~console~priority~PriorityPrintTap
+bin~orign~console~priority~PriorityPrintSpace
