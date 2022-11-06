@@ -1,6 +1,6 @@
-compulsion:origin
-operate:origin
-alteration:origin
+compulsion
+alteration
+operate
 
 bin~token~VariableToken
 bin~token~LoopToken

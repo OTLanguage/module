@@ -1,4 +1,4 @@
-operate:poison
+operate
 
 cos~poison~handler~HttpHandlerInf
 cos~poison~handler~HttpPostHandler
