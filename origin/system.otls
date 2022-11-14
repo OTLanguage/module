@@ -37,8 +37,9 @@ bin~calculator~bool~CompareCalculator
 bin~calculator~tool~CalculatorTool
 bin~calculator~tool~Calculator
 bin~define~klass~DefineKlass
-bin~define~item~MethodType
-bin~define~item~MethodItem
+bin~define~item~MethodItemVoid
+bin~define~item~MethodItemTool
+bin~define~item~MethodItemReturn
 bin~define~method~MethodVoid
 bin~define~method~DefineMethod
 bin~define~method~MethodReturn
@@ -82,6 +83,11 @@ bin~orign~console~priority~PriorityPrintTap
 bin~string~Join
 bin~string~Contains
 bin~string~Split
+bin~string~list~ListAdd
+bin~string~list~ListContains
+bin~string~list~ListRemove
+bin~string~list~AggregationList
+bin~string~list~ListRetain
 bin~string~Equals
 bin~string~SplitRegular
 bin~check~VariableType
@@ -93,4 +99,5 @@ bin~exception~MatchException
 bin~exception~VariableException
 bin~exception~ServerException
 bin~exception~ConsoleException
+bin~exception~CosException
 bin~CreateStartWorks
