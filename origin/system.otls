@@ -12,7 +12,6 @@ bin~token~StringToken
 bin~token~Token
 bin~apply~Controller
 bin~apply~sys~make~ChangeHangle
-bin~apply~sys~make~MakeModel
 bin~apply~sys~make~StartLine
 bin~apply~sys~make~Bracket
 bin~apply~sys~item~HpMap
@@ -49,6 +48,7 @@ bin~time~date~DateFormat
 bin~time~time~TimeNow
 bin~time~time~TimeFormat
 bin~orign~GetOnlyChangeList
+bin~orign~variable~both~PutChangeValueVariable
 bin~orign~variable~both~ContainsTool
 bin~orign~variable~GetList
 bin~orign~variable~CreateSet
@@ -68,7 +68,6 @@ bin~orign~math~random~RandomFloat
 bin~orign~GetSetVariable
 bin~orign~loop~While
 bin~orign~loop~If
-bin~orign~loop~ForEach
 bin~orign~loop~tool~LoopController
 bin~orign~loop~For
 bin~orign~console~normal~PrintSpace
