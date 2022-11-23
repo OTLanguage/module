@@ -21,16 +21,16 @@ class:
    cos~music~exception~MusicException
 
 file:
-   F#.wav
+   E_sarp.wav
+   D_sarp.wav
    A2.wav
-   A#.wav
+   B_sarp.wav
    A.wav
-   B#.wav
    C.wav
    B.wav
    F.wav
+   F_sarp.wav
    G.wav
    E.wav
    D.wav
-   D#.wav
-   E#.wav
+   A_sarp.wav
