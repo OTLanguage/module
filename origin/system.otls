@@ -23,6 +23,7 @@ class:
    bin~token~Token
    bin~apply~Controller
    bin~apply~sys~make~ChangeHangle
+   bin~apply~sys~make~LoopBracket
    bin~apply~sys~make~StartLine
    bin~apply~sys~make~Bracket
    bin~apply~sys~item~HpMap
@@ -31,7 +32,6 @@ class:
    bin~apply~sys~item~SystemSetting
    bin~apply~sys~item~RunType
    bin~apply~sys~item~Color
-   bin~apply~sys~run~LoopBracket
    bin~apply~sys~run~ForceQuit
    bin~apply~sys~run~FilePath
    bin~apply~sys~run~Sleep
@@ -71,6 +71,8 @@ class:
    bin~orign~variable~StartVariable
    bin~orign~variable~CreateOrigin
    bin~orign~variable~CreateMap
+   bin~orign~math~Max
+   bin~orign~math~Min
    bin~orign~math~random~RandomDouble
    bin~orign~math~random~RandomBoolean
    bin~orign~math~random~RandomInteger
@@ -83,7 +85,6 @@ class:
    bin~orign~GetSetVariable
    bin~orign~loop~While
    bin~orign~loop~If
-   bin~orign~loop~tool~LoopController
    bin~orign~loop~For
    bin~orign~console~normal~PrintSpace
    bin~orign~console~normal~Scanner
@@ -97,6 +98,9 @@ class:
    bin~string~Join
    bin~string~Contains
    bin~string~Split
+   bin~string~position~Index
+   bin~string~position~LastIndex
+   bin~string~position~SubString
    bin~string~tocase~ToUpper
    bin~string~tocase~ToLower
    bin~string~list~ListAdd
@@ -105,7 +109,7 @@ class:
    bin~string~list~AggregationList
    bin~string~list~ListRetain
    bin~string~Equals
-   bin~string~pattern~PatternMatch
+   bin~string~pattern~MatcherFind
    bin~string~SplitRegular
    bin~check~VariableType
    bin~check~VariableCheck
