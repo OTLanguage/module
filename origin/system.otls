@@ -114,6 +114,7 @@ class:
    bin~check~VariableType
    bin~check~VariableCheck
    bin~check~VariableTypeCheck
+   bin~exception~ExceptionMessage
    bin~exception~FileException
    bin~exception~ErrorMessage
    bin~exception~MatchException
