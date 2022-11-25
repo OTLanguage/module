@@ -5,9 +5,11 @@ module:
    operate
 
 class:
-   cos~java~StartShell
-   cos~java~CreateShell
-   cos~java~JavaRepository
+   cos~shell~StartShell
+   cos~shell~CreateShell
+   cos~shell~ReturnShell
+   cos~shell~tool~JavaTool
+   cos~shell~JavaRepository
 
 file:
    otl-java-datetime-4.0.2.jar
