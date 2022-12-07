@@ -8,7 +8,7 @@ class:
    cos~shell~StartShell
    cos~shell~CreateShell
    cos~shell~ReturnShell
-   cos~shell~tool~JavaTool
+   cos~shell~tool~ShellTool
    cos~shell~JavaRepository
 
 file:

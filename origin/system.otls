@@ -23,6 +23,7 @@ class:
    bin~token~Token
    bin~apply~Controller
    bin~apply~sys~make~ChangeHangle
+   bin~apply~sys~make~OtherKlass
    bin~apply~sys~make~LoopBracket
    bin~apply~sys~make~StartLine
    bin~apply~sys~make~Bracket
@@ -33,6 +34,7 @@ class:
    bin~apply~sys~item~RunType
    bin~apply~sys~item~Color
    bin~apply~sys~run~ForceQuit
+   bin~apply~sys~run~IsCheck
    bin~apply~sys~run~FilePath
    bin~apply~sys~run~Sleep
    bin~apply~sys~run~TryCatch

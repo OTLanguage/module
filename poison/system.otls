@@ -20,6 +20,7 @@ class:
    cos~poison~work~PoisonStartWork
    cos~poison~root~VariableHTML
    cos~poison~root~HandlerRoot
+   cos~poison~root~IfHTML
    cos~poison~root~RootWork
    cos~poison~run~start~Redirect
    cos~poison~run~start~SetCookie
@@ -30,4 +31,5 @@ class:
    cos~poison~setting~PoisonMethod
    cos~poison~setting~PoisonCreate
    cos~poison~setting~PoisonStart
+   cos~poison~setting~PoisonPassURL
    cos~poison~method~PoisonTools
