@@ -5,20 +5,20 @@ module:
    operate
 
 class:
-   cos~music~start~SetVolume
-   cos~music~start~PlaySound
-   cos~music~start~SetSpeed
-   cos~music~start~CreateMusic
-   cos~music~start~SetPitch
-   cos~music~start~SetLoop
-   cos~music~replace~GetPitch
-   cos~music~replace~GetVolume
-   cos~music~replace~GetSpeed
-   cos~music~replace~GetLoop
-   cos~music~items~MusicItem
-   cos~music~items~MusicRepository
-   cos~music~items~Sonic
-   cos~music~exception~MusicException
+   cos~music~start~CreateMusic.class
+   cos~music~start~SetSpeed.class
+   cos~music~start~SetVolume.class
+   cos~music~start~SetLoop.class
+   cos~music~start~SetPitch.class
+   cos~music~start~PlaySound.class
+   cos~music~replace~GetLoop.class
+   cos~music~replace~GetSpeed.class
+   cos~music~replace~GetVolume.class
+   cos~music~replace~GetPitch.class
+   cos~music~items~MusicItem.class
+   cos~music~items~MusicRepository.class
+   cos~music~items~Sonic.class
+   cos~music~exception~MusicException.class
 
 file:
    E_sarp.wav

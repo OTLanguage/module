@@ -6,10 +6,10 @@ module:
    operate
 
 class:
-   cos~gui~setting~GUIRepository
-   cos~gui~items~OLabel
-   cos~gui~items~OPasswordField
-   cos~gui~items~OFrame
-   cos~gui~items~OTextField
-   cos~gui~items~OPanel
-   cos~gui~items~OButton
+   cos~gui~setting~GUIRepository.class
+   cos~gui~items~OFrame.class
+   cos~gui~items~OPasswordField.class
+   cos~gui~items~OButton.class
+   cos~gui~items~OLabel.class
+   cos~gui~items~OTextField.class
+   cos~gui~items~OPanel.class
