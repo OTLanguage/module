@@ -6,6 +6,11 @@ system:
    ㅠㅅㅠ
    ㅁㅅㅁ
    ㅋㅅㅋ
+   ㅍㅅㅍ~$
+   ㅇㅁㅇ~$
+   ㅇㅁㅇ~ㅅㅍㅅ$
+   ㅇㅁㅇ~ㅆㅍㅆ$
+   ㅇㅁㅇ~ㅍㅌㅍ$
 
 module:
    compulsion
@@ -82,6 +87,8 @@ class:
    bin~define~method~MethodReturn.class
    bin~define~method~MethodVoid.class
    bin~define~method~DefineMethod.class
+   bin~file~FileLineFor.class
+   bin~file~FileReadAll.class
    bin~time~date~DateFormat.class
    bin~time~date~DateNow.class
    bin~time~time~TimeFormat.class
@@ -101,6 +108,8 @@ class:
    bin~orign~variable~CreateSet.class
    bin~orign~GetOnlyChangeList.class
    bin~orign~math~Max.class
+   bin~orign~math~cal~DownPoint.class
+   bin~orign~math~cal~UpPoint.class
    bin~orign~math~random~RandomFloat.class
    bin~orign~math~random~RandomDouble.class
    bin~orign~math~random~RandomInteger.class
@@ -126,21 +135,34 @@ class:
    bin~orign~console~priority~PriorityPrintTap.class
    bin~CreateReturnWorks$ReturnItem.class
    bin~string~Contains.class
+   bin~string~StringLength.class
    bin~string~Join.class
+   bin~string~with~EndsWith.class
+   bin~string~with~StartsWith.class
+   bin~string~character~StringCharFor.class
+   bin~string~character~StringSplitRegularFor.class
+   bin~string~character~StringSplitFor.class
    bin~string~position~Index.class
    bin~string~position~SubString.class
    bin~string~position~LastIndex.class
-   bin~string~Split.class
    bin~string~tocase~ToLower.class
    bin~string~tocase~ToUpper.class
+   bin~string~blank~StringTrim.class
+   bin~string~blank~StringTrimPoint.class
+   bin~string~Repeat.class
    bin~string~list~ListRemove.class
    bin~string~list~AggregationList.class
    bin~string~list~ListRetain.class
    bin~string~list~ListAdd.class
    bin~string~list~ListContains.class
    bin~string~Equals.class
-   bin~string~SplitRegular.class
    bin~string~pattern~MatcherFind.class
+   bin~string~pattern~StringReplace.class
+   bin~string~pattern~MatcherGroupFor.class
+   bin~string~pattern~Split.class
+   bin~string~pattern~StringReplaceFirst.class
+   bin~string~pattern~StringReplaceRegular.class
+   bin~string~pattern~SplitRegular.class
    bin~check~VariableTypeCheck$1.class
    bin~check~VariableTypeCheck$2.class
    bin~check~VariableTypeCheck.class
@@ -156,3 +178,11 @@ class:
    bin~exception~ErrorMessage.class
    bin~exception~MatchException$1.class
    bin~exception~ConsoleException.class
+   work~v4~Casting$1.class
+   work~v4~WorkItem.class
+   work~v4~StartWork.class
+   work~v4~Casting$2.class
+   work~v4~Casting.class
+   work~v4~ReturnWork.class
+   work~v3~ReturnWorkV3.class
+   work~v3~StartWorkV3.class
