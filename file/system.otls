@@ -1,0 +1,4 @@
+class:
+    file~Reset.class
+    file~item~FileItem.class
+    file~CreateFile.class
