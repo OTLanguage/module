@@ -1,13 +1,12 @@
 class:
-    etc~OCRItem.class
-    etc~OCRException$1.class
-    etc~OCRToken.class
-    etc~CreateOCR.class
-    etc~OCRException.class
-    Reset.class
-    OCR.class
-    work~OCRSetLanguage.class
-
+    ocr~etc~OCRItem.class
+    ocr~etc~OCRException$1.class
+    ocr~etc~OCRToken.class
+    ocr~etc~OCRException.class
+    ocr~Reset.class
+    ocr~OCR.class
+    ocr~work~CreateOCR.class
+    ocr~work~OCRSetLanguage.class
 jar:
     leptonica-1.82.0-1.5.8-macosx-x86_64.jar
     leptonica-platform-1.82.0-1.5.8.jar
@@ -96,5 +95,4 @@ jar:
     leptonica-1.82.0-1.5.8-sources.jar
     leptonica-1.82.0-1.5.8-android-arm64.jar
     tesseract-5.2.0-1.5.8-macosx-arm64.jar
-
 other:

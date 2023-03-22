@@ -1,0 +1,15 @@
+class:
+    macro~etc~MacroException.class
+    macro~etc~KeyItem.class
+    macro~etc~MacroToken.class
+    macro~etc~MacroException$1.class
+    macro~key~AlphaKey.class
+    macro~key~KeyTool.class
+    macro~key~NumberKey.class
+    macro~key~SpecialKey.class
+    macro~key~FunctionKey.class
+    macro~Reset.class
+    macro~item~MacroItem.class
+jar:
+other:
+    icon.otlm

@@ -4,7 +4,6 @@ class:
     java~controller~ShellItem.class
     java~controller~ShellStart.class
     java~work~CreateJava.class
-
 jar:
     otl-java-datetime-4.0.2.jar
     otl-java-otl-javadoc-4.0.2.jar
@@ -64,5 +63,4 @@ jar:
     otl-java-test-4.0.2.jar
     otl-java-sql-4.0.2.jar
     otl-java-test-4.0.2-sources.jar
-
 other:
