@@ -1,6 +1,11 @@
 class:
     file~etc~CreateFile.class
+    file~etc~FileToken.class
     file~Reset.class
     file~item~FileItem.class
+    file~work~FileIsDirectory.class
+    file~work~FileIsFile.class
+    file~work~FileList.class
+    file~work~FileRead.class
 jar:
 other:

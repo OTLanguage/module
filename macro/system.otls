@@ -10,6 +10,14 @@ class:
     macro~key~FunctionKey.class
     macro~Reset.class
     macro~item~MacroItem.class
+    macro~work~GetY.class
+    macro~work~GetPoint.class
+    macro~work~GetX.class
+    macro~work~MouseWheel.class
+    macro~work~CreateMacro.class
+    macro~work~MouseClick3.class
+    macro~work~MouseClick1.class
+    macro~work~MouseClick2.class
 jar:
 other:
     icon.otlm

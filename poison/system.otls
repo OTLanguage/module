@@ -10,7 +10,6 @@ class:
     poison~etc~PoisonException$1.class
     poison~etc~RexMap.class
     poison~etc~RexItem.class
-    poison~etc~ResponseItem.class
     poison~etc~PoisonToken.class
     poison~etc~PoisonException.class
     poison~Reset.class
@@ -18,12 +17,23 @@ class:
     poison~controller~URLParser.class
     poison~controller~HandlerRoot.class
     poison~controller~URLItem.class
+    poison~item~HttpItem.class
+    poison~item~PoisonItem.class
     poison~work~PoisonCreate.class
     poison~work~PoisonStop.class
+    poison~work~start~PoisonDeleteCookie.class
+    poison~work~start~PoisonSetCookie.class
+    poison~work~start~PoisonRedirect.class
+    poison~work~start~PoisonSetData.class
+    poison~work~start~PoisonSetType.class
     poison~work~PoisonSetHost.class
-    poison~work~CreatePoison.class
     poison~work~PoisonSetPort.class
+    poison~work~replace~PoisonIsEmpty.class
+    poison~work~replace~PoisonGetCookie.class
+    poison~work~create~CreatePoison.class
     poison~work~PoisonStart.class
+    poison~work~method~PoisonMethod$Codes.class
+    poison~work~method~PoisonMethod$Types.class
     poison~work~method~PoisonMethod.class
     poison~work~method~PoisonWork.class
 jar:
