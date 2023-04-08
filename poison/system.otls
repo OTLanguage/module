@@ -19,19 +19,8 @@ class:
     poison~controller~URLItem.class
     poison~item~HttpItem.class
     poison~item~PoisonItem.class
-    poison~work~PoisonCreate.class
-    poison~work~PoisonStop.class
-    poison~work~start~PoisonDeleteCookie.class
-    poison~work~start~PoisonSetCookie.class
-    poison~work~start~PoisonRedirect.class
-    poison~work~start~PoisonSetData.class
-    poison~work~start~PoisonSetType.class
-    poison~work~PoisonSetHost.class
-    poison~work~PoisonSetPort.class
-    poison~work~replace~PoisonIsEmpty.class
-    poison~work~replace~PoisonGetCookie.class
+    poison~work~PoisonSetCookie.class
     poison~work~create~CreatePoison.class
-    poison~work~PoisonStart.class
     poison~work~method~PoisonMethod$Codes.class
     poison~work~method~PoisonMethod$Types.class
     poison~work~method~PoisonMethod.class

@@ -5,12 +5,7 @@ class:
     ocr~etc~OCRException.class
     ocr~Reset.class
     ocr~OCR.class
-    ocr~work~OCRStart.class
-    ocr~work~OCRRemoveLanguage.class
-    ocr~work~OCRInitLanguage.class
     ocr~work~CreateOCR.class
-    ocr~work~OCRGetLanguage.class
-    ocr~work~OCRSetLanguage.class
 jar:
     leptonica-1.82.0-1.5.8-macosx-x86_64.jar
     leptonica-platform-1.82.0-1.5.8.jar

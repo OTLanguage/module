@@ -4,32 +4,6 @@ class:
     math~etc~MathException$1.class
     math~etc~MathException.class
     math~Reset.class
-    math~work~cst~Cos.class
-    math~work~cst~Tan.class
-    math~work~cst~Sin.class
-    math~work~square~Pow.class
-    math~work~square~Sqrt.class
-    math~work~GetPi.class
-    math~work~abs~AbsInteger.class
-    math~work~abs~AbsDouble.class
-    math~work~abs~AbsLong.class
-    math~work~abs~AbsFloat.class
-    math~work~estimate~Round.class
-    math~work~estimate~Ceil.class
-    math~work~estimate~Floor.class
-    math~work~random~bound~BoundFloat.class
-    math~work~random~bound~BoundDouble.class
-    math~work~random~bound~BoundLong.class
-    math~work~random~bound~BoundInteger.class
-    math~work~random~origin~OriginInteger.class
-    math~work~random~origin~OriginLong.class
-    math~work~random~origin~OriginFloat.class
-    math~work~random~origin~OriginDouble.class
-    math~work~random~random~RandomFloat.class
-    math~work~random~random~RandomDouble.class
-    math~work~random~random~RandomInteger.class
-    math~work~random~random~RandomBoolean.class
-    math~work~random~random~RandomLong.class
     math~create~CreateMath.class
 jar:
 other:

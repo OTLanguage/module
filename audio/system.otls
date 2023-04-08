@@ -4,17 +4,7 @@ class:
     audio~etc~AudioException$1.class
     audio~etc~Sonic.class
     audio~Reset.class
-    audio~Reset$5.class
     audio~item~AudioItem.class
-    audio~work~AudioSetPitch.class
-    audio~work~AudioSetVolume.class
-    audio~work~AudioStart.class
     audio~work~CreateAudio.class
-    audio~work~AudioSetLoop.class
-    audio~work~AudioSetSpeed.class
-    audio~Reset$3.class
-    audio~Reset$1.class
-    audio~Reset$4.class
-    audio~Reset$2.class
 jar:
 other:
