@@ -22,6 +22,7 @@ class:
     graph~item~GraphTest.class
     graph~item~GraphItem$1.class
     graph~item~GraphItem.class
+    graph~work~GraphMethod.class
     graph~work~CreateGraph.class
 jar:
 other:
