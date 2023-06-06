@@ -1,9 +1,0 @@
-class:
-    internet~etc~InternetException.class
-    internet~etc~InternetToken.class
-    internet~etc~InternetException$1.class
-    internet~Reset.class
-    internet~item~InternetItem.class
-    internet~work~CreateInternet.class
-jar:
-other:

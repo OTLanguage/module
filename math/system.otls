@@ -1,9 +1,6 @@
 class:
-    math~etc~MathToken.class
-    math~etc~MathItem.class
-    math~etc~MathException$1.class
-    math~etc~MathException.class
+    math~MathException$1.class
+    math~MathException.class
+    math~MathItem.class
+    math~MathToken.class
     math~Reset.class
-    math~create~CreateMath.class
-jar:
-other:

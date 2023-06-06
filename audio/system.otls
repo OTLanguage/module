@@ -1,10 +1,7 @@
 class:
-    audio~etc~AudioToken.class
-    audio~etc~AudioException.class
-    audio~etc~AudioException$1.class
-    audio~etc~Sonic.class
+    audio~AudioException$1.class
+    audio~AudioException.class
+    audio~AudioItem.class
+    audio~AudioToken.class
     audio~Reset.class
-    audio~item~AudioItem.class
-    audio~work~CreateAudio.class
-jar:
-other:
+    audio~Sonic.class

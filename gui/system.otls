@@ -1,21 +1,16 @@
 class:
-    gui~mode~BackgroundColor.class
-    gui~etc~GuiException.class
-    gui~etc~GuiToken.class
-    gui~etc~GuiException$1.class
+    gui~ComponentTool.class
+    gui~CreateGUI.class
+    gui~GUIItem$ActionEventItem.class
+    gui~GUIItem$AddEvent.class
+    gui~GUIItem$ButtonItem.class
+    gui~GUIItem$CheckBoxItem.class
+    gui~GUIItem$PasswordFiledItem.class
+    gui~GUIItem$RadioButtonItem.class
+    gui~GUIItem$TextAreaItem.class
+    gui~GUIItem$TextFieldItem.class
+    gui~GUIItem.class
+    gui~GuiException$1.class
+    gui~GuiException.class
+    gui~GuiToken.class
     gui~Reset.class
-    gui~item~ComponentTool.class
-    gui~item~TextFieldItem.class
-    gui~item~CheckBoxItem.class
-    gui~item~FrameItem.class
-    gui~item~ButtonItem.class
-    gui~item~RadioButtonItem.class
-    gui~item~PanelItem.class
-    gui~work~AddEvent$1.class
-    gui~work~CreateEvent.class
-    gui~work~CreateGUI.class
-    gui~work~CreateGroup.class
-    gui~work~AddEvent.class
-jar:
-other:
-    icon.otlm

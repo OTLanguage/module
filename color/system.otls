@@ -1,0 +1,6 @@
+class:
+    color~ColorException$1.class
+    color~ColorException.class
+    color~ColorItem.class
+    color~ColorToken.class
+    color~Reset.class
